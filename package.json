@@ -7,6 +7,9 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": {
+		"name": "Rafael Barros"
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
