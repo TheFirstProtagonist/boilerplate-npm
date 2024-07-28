@@ -1,8 +1,6 @@
 {
+	"author": "Rafael Nascimento",
 	"name": "fcc-learn-npm-package-json",
-	"author": {
-		"name": "Rafael Nascimento"
-	},
 	"dependencies": {
 	  "express": "^4.14.0"
 	},
